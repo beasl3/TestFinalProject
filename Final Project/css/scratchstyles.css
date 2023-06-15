@@ -1,0 +1,16 @@
+.backcolor{
+    background-color:beige;
+}
+.headingfont{
+    font-weight:bold;
+}
+.common{
+    font-weight: normal;
+    color: gray;
+}
+.all{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.special{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
